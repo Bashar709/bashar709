@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bashar 👋
+
+🎓 **Information Technology student**  
+💻 Interested in **software development, web development and technology**  
+🚀 Currently learning and building new projects  
+🌐 Portfolio
+Check out my projects and more about me:
+bashar.no
+
+🚀 Projects
+
+Here you'll find projects from my studies at HVL, personal projects and things I'm building to improve my programming skills.
 
 <!--
 **Bashar709/bashar709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
