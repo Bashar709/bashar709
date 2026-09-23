@@ -5,7 +5,7 @@
 🚀 Currently learning and building new projects  
 🌐 Portfolio
 Check out my projects and more about me:
-bashar.no
+https://bashar.no/
 
 🚀 Projects
 
