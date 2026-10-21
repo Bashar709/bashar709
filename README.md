@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:36BCF7&height=140&section=header" width="100%" />
+</p>
+
+<p align="center">
 <a href="https://bashar.no/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Bashar+Mohamad;Software+Developer;IT+student+%40+HVL" alt="Typing SVG" /></a>
 </p>
 
@@ -6,29 +10,22 @@
 
 🎓 **Information Technology student**  
 💻 Interested in **software development, web development and technology**  
-🚀 Currently learning and building new projects  
-🌐 Portfolio
-Check out my projects and more about me:
-https://bashar.no/
+🚀 Currently learning and building new projects
 
 🚀 Projects
 
 Here you'll find projects from my studies at HVL, personal projects and things I'm building to improve my programming skills.
 
-<!--
-**Bashar709/bashar709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech stack
 
-Here are some ideas to get you started:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,cpp,cs,dotnet&perline=9" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-bashar.no-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bashar.no/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bashar_Mohamad-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/bashar-mohamad)
 
 ## ⚡ Recent activity
 
