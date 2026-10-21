@@ -25,3 +25,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=bashar709&show_icons=true&count_private=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bashar709&layout=compact&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=bashar709&hide_border=true)
+
+## 📈 Activity graph
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bashar709&hide_border=true)
+
+## ⚡ Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
