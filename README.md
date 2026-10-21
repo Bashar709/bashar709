@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://bashar.no/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=60&lines=Bashar+Mohamad;Software+Developer;IT+student+%40+HVL" alt="Typing SVG" /></a>
+</p>
+
 # Hi, I'm Bashar 👋
 
 🎓 **Information Technology student**  
